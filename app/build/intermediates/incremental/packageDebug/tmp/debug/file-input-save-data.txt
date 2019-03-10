@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 07 20:30:56 ICT 2019
+0.baseType=DIRECTORY
+0.base=/Users/pvrn/Desktop/Year 4-2/Project/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

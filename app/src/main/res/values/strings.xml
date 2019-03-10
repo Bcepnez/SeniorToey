@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="title_activity_media">Media</string>
+    <string name="Photo">Photo</string>
+    <string name="Video">Video</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Photo</string>
+    <string name="tab_text_2">Video</string>
+    <string name="title_activity_joystick">joystick</string>
+</resources>
